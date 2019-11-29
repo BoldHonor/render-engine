@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1571597532 source:/media/prakhar/new x/glu tproject/final engine/draw.cpp
+	"draw.h"
+	<GL/glew.h>
+
+1571576367 /media/prakhar/new x/glu tproject/final engine/draw.h
+
+1571597998 source:/media/prakhar/new x/glu tproject/final engine/main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<GL/glew.h>
+	"draw.h"
+	"shader.h"
+
+1571595419 /media/prakhar/new x/glu tproject/final engine/shader.h
+	<string.h>
+	<GL/glew.h>
+
+1571596630 source:/media/prakhar/new x/glu tproject/final engine/shader.cpp
+	<string.h>
+	<GL/glew.h>
+	<fstream>
+	<iostream>
+	"shader.h"
+
